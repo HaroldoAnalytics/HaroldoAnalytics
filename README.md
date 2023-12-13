@@ -1,1 +1,1 @@
-profile-3d-contrib/profile-customize.svg
+![Status](profile-3d-contrib/profile-night-view.svg)
