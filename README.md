@@ -16,21 +16,21 @@
 
 ```sql
 SELECT
-    'Haroldo Machado'                          AS nome,
-    'Analytics Engineer IV'                    AS cargo,
-    'Salvador, Bahia 🇧🇷'                       AS base,
-    ['BigQuery', 'dbt', 'Airflow', 'Power BI'] AS stack_principal,
-    ['n8n', 'AI Agents', 'Python', 'GCP']      AS automacao_e_ia,
-    'Maratonista 🏃 42km em 3h39'              AS fora_do_teclado,
-    'Sub-3h na maratona'                       AS proxima_meta
+    'Haroldo Machado'                                     AS nome,
+    'Analytics Engineer IV'                               AS cargo,
+    'Salvador, Bahia 🇧🇷'                                  AS base,
+    ['BigQuery', 'dbt', 'Airflow', 'Power BI', 'Python]   AS stack_principal,
+    ['n8n', 'AI Agents', 'Python', 'GCP']                 AS automacao_e_ia,
+    'Maratonista 🏃 42km em 3h39'                         AS fora_do_teclado,
+    'Sub-3h na maratona'                                  AS proxima_meta
 FROM analytics_engineers
 WHERE paixao = 'transformar dados brutos em impacto real'
 QUALIFY ROW_NUMBER() OVER (ORDER BY cafe_consumido DESC) = 1;
 ```
 
-- 🔭 Atuando no varejo esportivo: **pipelines em escala**, dashboards executivos e **agentes de IA** para monitoramento de anomalias
+- 🔭 Atuando SBF dona da Centauro e Fisa (Nike Brasil) realizando: **pipelines em escala**, dashboards executivos, constuções de analises usando SQL e **agentes de IA** para monitoramento de anomalias
 - 🏗️ Arquitetura medalhão (Raw → Trusted → Refined) no **Google Cloud**, orquestrada com **Cloud Composer / Airflow**
-- 🤖 Construindo bots com **n8n + LLMs + BigQuery**: detecção de anomalias de fluxo, alertas inteligentes no Slack e relatórios automatizados
+- 🤖 Construindo bots com **n8n + LLMs + BigQuery + LangGraph**: detecção de anomalias de fluxo, alertas inteligentes no Slack e relatórios automatizados
 - 📊 DAX avançado, modelagem semântica e visuais custom (HTML/CSS) no **Power BI**
 - 🎯 Estudando arquitetura de software (Clean Architecture, design patterns) e engenharia de dados moderna
 
