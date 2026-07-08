@@ -19,7 +19,7 @@ SELECT
     'Haroldo Machado'                                     AS nome,
     'Analytics Engineer IV'                               AS cargo,
     'Salvador, Bahia 🇧🇷'                                  AS base,
-    ['BigQuery', 'dbt', 'Airflow', 'Power BI', 'Python]   AS stack_principal,
+    ['BigQuery', 'dbt', 'Airflow', 'Power BI', 'Python']  AS stack_principal,
     ['n8n', 'AI Agents', 'Python', 'GCP']                 AS automacao_e_ia,
     'Maratonista 🏃 42km em 3h39'                         AS fora_do_teclado,
     'Sub-3h na maratona'                                  AS proxima_meta
