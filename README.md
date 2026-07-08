@@ -98,13 +98,12 @@ QUALIFY ROW_NUMBER() OVER (ORDER BY cafe_consumido DESC) = 1;
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaroldoAnalytics&theme=dracula&hide_border=true&fire=FA5C1E&ring=FA5C1E" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HaroldoAnalytics&show_icons=true&theme=dracula&hide_border=true&icon_color=FA5C1E&title_color=FA5C1E&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=HaroldoAnalytics&theme=dracula&hide_border=true&fire=FA5C1E&ring=FA5C1E" height="180"/>
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaroldoAnalytics&theme=dracula&utcOffset=-3" height="180"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaroldoAnalytics&theme=dracula" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaroldoAnalytics&theme=dracula&utcOffset=-3" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaroldoAnalytics&theme=dracula" height="180"/>
 </div>
 
 <div align="center">
