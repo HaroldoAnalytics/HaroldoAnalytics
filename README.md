@@ -125,11 +125,8 @@ QUALIFY ROW_NUMBER() OVER (ORDER BY cafe_consumido DESC) = 1;
 
 <!-- ═══════════════════════ CONTATO ═══════════════════════ -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/haroldoanalytics/">
+  <a href="https://www.linkedin.com/in/haroldomachadoanalytics/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/haroldoanalytics/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
