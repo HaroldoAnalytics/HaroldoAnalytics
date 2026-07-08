@@ -28,7 +28,7 @@ WHERE paixao = 'transformar dados brutos em impacto real'
 QUALIFY ROW_NUMBER() OVER (ORDER BY cafe_consumido DESC) = 1;
 ```
 
-- 🔭 Atuando SBF dona da Centauro e Fisa (Nike Brasil) realizando: **pipelines em escala**, dashboards executivos, constuções de analises usando SQL e **agentes de IA** para monitoramento de anomalias
+- 🔭 Atuando SBF dona da Centauro e Fisia (Nike Brasil) realizando: **pipelines em escala**, dashboards executivos, constuções de analises usando SQL e **agentes de IA** para monitoramento de anomalias
 - 🏗️ Arquitetura medalhão (Raw → Trusted → Refined) no **Google Cloud**, orquestrada com **Cloud Composer / Airflow**
 - 🤖 Construindo bots com **n8n + LLMs + BigQuery + LangGraph**: detecção de anomalias de fluxo, alertas inteligentes no Slack e relatórios automatizados
 - 📊 DAX avançado, modelagem semântica e visuais custom (HTML/CSS) no **Power BI**
