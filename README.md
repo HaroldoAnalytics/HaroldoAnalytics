@@ -89,7 +89,7 @@ QUALIFY ROW_NUMBER() OVER (ORDER BY cafe_consumido DESC) = 1;
 | 📦 | **Pipelines de dados em escala** — ingestão, MERGE incremental e modelagem em camadas para o varejo | `BigQuery` `dbt` `Airflow` |
 | 📊 | **Dashboards executivos** — Click & Collect, NPS, fluxo de pessoas e omnichannel com visuais custom | `Power BI` `DAX` `HTML/CSS` |
 | ⚡ | **Automações end-to-end** — relatórios agendados, integrações Google Sheets + Slack, alertas de jobs longos | `n8n` `Python` `GCP` |
-| 🕷️ | **[Scrapping_Licitacoes](https://github.com/HaroldoAnalytics/Scrapping_Licitacoes)** — web scraping de licitações públicas | `Python` |
+| 🕷️ | **[Scrapping_Licitacoes](https://github.com/HaroldoAnalytics/Scrapping_Licitacoes)** — web scraping de licitações públicas | `Power BI` |
 | 🌡️ | **[Heatmap-in-Powerbi](https://github.com/HaroldoAnalytics/Heatmap-in-Powerbi)** — heatmaps custom no Power BI | `Power BI` `DAX` |
 
 <br/>
@@ -110,11 +110,6 @@ QUALIFY ROW_NUMBER() OVER (ORDER BY cafe_consumido DESC) = 1;
 <div align="center">
   <img src="https://raw.githubusercontent.com/HaroldoAnalytics/HaroldoAnalytics/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
-
-<br/>
-
-<!-- ═══════════════════════ FUN FACT ═══════════════════════ -->
-> 🏃 **Fun fact:** quando não estou otimizando queries, estou otimizando meu pace — maratona do Rio concluída em **3h39**, próxima parada: **sub-3h**. Pipeline e treino têm a mesma lógica: consistência > intensidade.
 
 <br/>
 
