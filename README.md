@@ -98,16 +98,12 @@ QUALIFY ROW_NUMBER() OVER (ORDER BY cafe_consumido DESC) = 1;
 ## 📈 Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HaroldoAnalytics&theme=dracula&hide_border=true&fire=FA5C1E&ring=FA5C1E" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=HaroldoAnalytics&theme=dracula&hide_border=true&fire=FA5C1E&ring=FA5C1E" height="170"/>&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaroldoAnalytics&theme=dracula&utcOffset=-3" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaroldoAnalytics&theme=dracula&utcOffset=-3" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaroldoAnalytics&theme=dracula" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaroldoAnalytics&row=1&column=6&theme=dracula&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaroldoAnalytics&theme=dracula" width="800"/>
 </div>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
